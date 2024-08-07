@@ -1,3 +1,4 @@
+<h2>写真などを削除したり軽量化してファイルサイズを削減しました</h2>
 <div align="center">
     <h1 style="font-size:50px; font-family: Noto Sans;">Night</h1>
 
